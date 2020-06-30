@@ -37,27 +37,27 @@ Se obtuvo la desviación estandar, con diferentes SNR:
 
 Con -2 dB:
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/R-1.png)
 
 Con -1 dB:
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/R-2.png)
 
 Con 0 dB:
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/R0.png)
 
 Con 1 dB:
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/R1.png)
 
 Con 2 dB:
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/R2.png)
 
 Con 3 dB:
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/R3.png)
 
 #Parte 4
 
