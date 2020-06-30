@@ -45,7 +45,7 @@ Con -1 dB:
 
 Con 0 dB:
 
-![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/R0.png)
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/R00.png)
 
 Con 1 dB:
 
@@ -57,7 +57,7 @@ Con 2 dB:
 
 Con 3 dB:
 
-![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/R3.png)
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/R33.png)
 
 #Parte 4
 
