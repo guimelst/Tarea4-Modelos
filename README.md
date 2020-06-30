@@ -99,4 +99,4 @@ con el bit 1 relacionado con f(t), cuando el bit relacionado con f(t) es 0, ento
 
 #Parte 6
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/BERvsSNR.png?raw=true)
