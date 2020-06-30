@@ -5,7 +5,7 @@ Parte #1
 
 Se generó la señal portadora de amplitud unitaria normalizada
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/ondaportadora.png)
 
 Luego se concatenó las diferentes formas de onda
 
