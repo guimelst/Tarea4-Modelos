@@ -19,7 +19,7 @@ Dado que la potyencia promedio de la señal esta dada con la siguiente fórmula,
 
 Se obtiene:
 
-<img src="https://latex.codecogs.com/gif.latex?P(T)\approx&space;0.49" title="P(T)\approx 0.49" /></a>
+<img src="https://latex.codecogs.com/gif.latex?P(T)\approx&space;0.48954841" title="P(T)\approx 0.48954841" /></a>
 
 #Parte 3
 
