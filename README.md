@@ -63,25 +63,27 @@ Con 3 dB:
 
 PDS -2 dB:
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P-2.png)
 
 PDS -1 dB:
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P-1.png)
 
 PDS 0 dB:
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P0.png)
 
 PDS 1 dB:
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P1.png)
 
 PDS 2 dB:
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P2.png)
 
 PDS 3 dB:
+
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P3.png)
 
 #Parte 5
 
