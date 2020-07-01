@@ -9,7 +9,7 @@ Se generó la señal portadora de amplitud unitaria normalizada
 
 Luego se concatenó las diferentes formas de onda
 
-![img]
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/aa.png)
 
 #Parte 2
 
@@ -63,27 +63,27 @@ Con 3 dB:
 
 PDS -2 dB:
 
-![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P-2.png)
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P-22.png)
 
 PDS -1 dB:
 
-![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P-1.png)
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P-11.png)
 
 PDS 0 dB:
 
-![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P0.png)
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P00.png)
 
 PDS 1 dB:
 
-![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P1.png)
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P11.png)
 
 PDS 2 dB:
 
-![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P2.png)
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P22.png)
 
 PDS 3 dB:
 
-![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P3.png)
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P33.png)
 
 #Parte 5
 
