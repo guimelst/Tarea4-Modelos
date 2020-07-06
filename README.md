@@ -33,6 +33,10 @@ Donde <img src="https://latex.codecogs.com/gif.latex?P_{n}" title="P_{n}" /></a>
 
 Donde <img src="https://latex.codecogs.com/gif.latex?P_{s}" title="P_{s}" /></a> e s la potencia promedio de la onda modulada.
 
+La siguiente figura muestra la grafica de la densidad espectral de potencia de la señal.
+
+![img](https://github.com/guimelst/Tarea4-Modelos/blob/master/P.png)
+
 Se obtuvo la desviación estandar, con diferentes SNR:
 
 Con -2 dB:
